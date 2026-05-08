@@ -12,3 +12,11 @@ A Java-based Inventory Management System developed using Java and OOP concepts.
 - Java
 - Swing
 - OOP
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Product
+![Add Product](screenshots/add-product.png)
